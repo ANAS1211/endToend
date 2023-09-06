@@ -1,0 +1,15 @@
+Define Data Requirements
+Now let us understand the data requirements to support the business problem. To enable automated processing they need to collect a lot of data.
+
+Customer personal information (Structured)
+Customers' credit details (Semi-structured)
+Customer’s employment info (Structured)
+Location via GIS data (Semi-structured)
+Document data (Unstructured)
+As a Data Engineer for Great Lending Company, We should be able to achieve the below goals:
+
+Ingest all the above types of data
+The ingestion process should be automated
+It should be scalable and robust to minimize data loss
+We need to cleanse and transform the data for business needs.
+The data should be available for reporting within the agreed SLA.
